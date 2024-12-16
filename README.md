@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yukipooh&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![GitHub Stats Card](https://github-readme-stats-clone-g6pr.vercel.app/api?username=yukipooh&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
 
 <!--
